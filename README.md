@@ -1,1 +1,1 @@
-# EPAi8
+This folder is about usage of closure in Python.
